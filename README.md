@@ -326,3 +326,4 @@ The API uses standard HTTP status codes for errors.
       "message": "Something went very wrong!"
     }
     ```
+    the end
